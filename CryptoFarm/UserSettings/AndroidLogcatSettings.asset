@@ -1,0 +1,101 @@
+{
+    "m_SelectedDeviceId": "RFCR20G3TLT",
+    "m_SelectedPackage": {
+        "deviceId": "RFCR20G3TLT",
+        "name": "com.DefaultCompany.CryptoFarm",
+        "processId": 11650,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RFCR20G3TLT",
+            "name": "com.DefaultCompany.CryptoFarm",
+            "processId": 12880,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20G3TLT",
+            "name": "com.DefaultCompany.CryptoFarm",
+            "processId": 16168,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20G3TLT",
+            "name": "com.DefaultCompany.CryptoFarm",
+            "processId": 1757,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20G3TLT",
+            "name": "com.DefaultCompany.CryptoFarm",
+            "processId": 28085,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20G3TLT",
+            "name": "com.DefaultCompany.CryptoFarm",
+            "processId": 5473,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCR20G3TLT",
+            "name": "com.DefaultCompany.CryptoFarm",
+            "processId": 11650,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
